@@ -1,6 +1,6 @@
-Ini adalah project flask, 
-Project ini memiliki fungsi untuk menghitung umur dengan menggunakan rumus : tahun sekarang - umur yang diinputkan user
-Selain itu, terdapat penjelasan yang dibuat menggunakan API Key Groq yang menampilkan fakta menarik tentang teknologi dari nilai yang dimasukkan user
+Ini adalah project framework python yaitu flask, 
+Project ini memiliki fungsi untuk menghitung umur dengan rumus : tahun sekarang - umur yang diinputkan user
+Selain itu, terdapat penjelasan yang dibuat menggunakan API Key Groq yang menampilkan fakta menarik tentang teknologi dari tahun yang diinputkan user pada form.
 
 Project ini terdiri dari beberapa bagian :
 Halaman Utama
@@ -11,4 +11,4 @@ Halaman About
 
 
 Halaman Hitung Umur
-file:///home/dewa/Pictures/Screenshots/Screenshot%20from%202025-03-26%2005-24-07.png
+![Screenshot from 2025-03-26 05-24-07](https://github.com/user-attachments/assets/4fc9b672-5ba6-48b1-a4ef-104b2b22dc25)
