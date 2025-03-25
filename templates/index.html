@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Halaman Utama</title>    
+    </head>
+    <style>
+        /* Reset default margin dan padding */
+        body, h1, a {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Styling untuk body */
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f6f9;
+        }
+
+        /* Styling untuk heading */
+        h1 {
+            color: #333;
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        /* Styling untuk link */
+        a {
+            text-decoration: none;
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <body>
+        <h1>Ini {{data}}</h2>
+        <a href="/usia"> Cek Usia</a>
+        <br>
+        <a href="/about"> Tentang Website</a>
+    </body>
+</html>
